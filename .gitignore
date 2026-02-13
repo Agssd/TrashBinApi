@@ -1,0 +1,7 @@
+database.db
+trash_bins.xslx
+trash_to_sqlite.py
+__pycache__/
+*.pyc
+.env
+.DS_Store 
